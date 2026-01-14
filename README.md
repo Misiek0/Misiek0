@@ -43,5 +43,5 @@ A production-ready automation tool developed for **commercial use**.
 ---
 
 ### 📫 Contact
-- 💼 [LinkedIn]([https://linkedin.com/in/michal-wszolek](https://www.linkedin.com/in/micha%C5%82-wszo%C5%82ek-b565661a4/))
+- 💼 [LinkedIn]((https://www.linkedin.com/in/micha%C5%82-wszo%C5%82ek-b565661a4/))
 - 📧 [Email](mailto:michal6426@gmail.com)
