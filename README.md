@@ -36,13 +36,13 @@ A production-ready automation tool developed for **commercial use**.
 ---
 
 ### ⚡ GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Misiek0&show_icons=true&theme=tokyonight&hide_border=true" alt="Misiek0 Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misiek0&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Misiek0 Languages" width="48%" />
-</p>
+
+![Statystyki Misiek0](https://github-readme-stats.vercel.app/api?username=Misiek0&show_icons=true&theme=tokyonight)
+
+![Języki Misiek0](https://github-readme-stats.vercel.app/api/top-langs/?username=Misiek0&layout=compact&theme=tokyonight)
 
 ---
 
 ### 📫 Contact
-- 💼 [LinkedIn](https://linkedin.com/in/michal-wszolek)
+- 💼 [LinkedIn]([https://linkedin.com/in/michal-wszolek](https://www.linkedin.com/in/micha%C5%82-wszo%C5%82ek-b565661a4/))
 - 📧 [Email](mailto:michal6426@gmail.com)
