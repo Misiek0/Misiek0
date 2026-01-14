@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there, I'm Michał! 👋
 
-<!--
-**Misiek0/Misiek0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a senior Computer Science student at the **Cracow University of Technology**, specializing in **Python Backend Development**.
 
-Here are some ideas to get you started:
+Currently, I am expanding my skills towards **Fullstack Development**, building modern web applications with Python APIs and React frontends.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+---
+
+### 🚀 Key Projects
+
+#### 1. 🌐 [Network Admin Panel](https://github.com/Misiek0/network_admin_panel) (Active Development)
+A web-based infrastructure management system.
+* **Tech:** Python (FastAPI), React, Docker, RabbitMQ
+* **Status:** Currently developing a robust REST API with asynchronous task processing (RabbitMQ) and building a modern React frontend.
+
+#### 2. 🚛 [AutoFlow](https://github.com/Misiek0/AutoFlow)
+A containerized fleet management web application.
+* **Tech:** PHP, Docker, PostgreSQL, JavaScript
+* **Key Features:** Handles vehicle/driver data, visualizes the fleet on an interactive map, and automates notifications. Running in Docker containers.
+
+#### 3. 📊 [ReportGenerator](https://github.com/Misiek0/ReportGenerator)
+A production-ready automation tool developed for **commercial use**.
+* **Tech:** Python
+* **Impact:** An internal tool created to automate manual data entry tasks, significantly reducing processing time and human error in real-world reporting scenarios.
+
+---
+
+### ⚡ GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Misiek0&show_icons=true&theme=tokyonight&hide_border=true" alt="Misiek0 Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misiek0&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Misiek0 Languages" width="48%" />
+</p>
+
+---
+
+### 📫 Contact
+- 💼 [LinkedIn](https://linkedin.com/in/michal-wszolek)
+- 📧 [Email](mailto:michal6426@gmail.com)
