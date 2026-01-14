@@ -37,10 +37,9 @@ A production-ready automation tool developed for **commercial use**.
 
 ### ⚡ GitHub Stats
 
-![Statystyki Misiek0](https://github-readme-stats.vercel.app/api?username=Misiek0&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Misiek0&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![Języki Misiek0](https://github-readme-stats.vercel.app/api/top-langs/?username=Misiek0&layout=compact&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Misiek0&layout=compact&theme=tokyonight&hide_border=true)
 ---
 
 ### 📫 Contact
